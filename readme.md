@@ -7,6 +7,7 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
 
+
 ## Sobre el código
 Vamos a integrar Laravel y Vuejs, usaremos vue-resource
 
