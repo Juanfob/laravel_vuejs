@@ -12,6 +12,12 @@
 <body>
 <div id="app" class="container">
     <h1> Notas </h1>
+    <div style="width:500px; padding:3px;">
+
+        <div style="width:245px; background:#FFCC00; float:left;"><notas></notas></div>
+        <div style="width:245px; background:#CCFF66; float:right;"><notas></notas></div>
+
+    </div>
     <notas></notas>
 </div>
 <input type="hidden" id="csrf_token" value="{{ csrf_token() }}" />
